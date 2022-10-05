@@ -1,0 +1,19 @@
+.DiadaSemana{
+    background-color: yellow;
+    border-style: solid;
+}
+.Materia{
+    color: red;
+}
+.semana{
+    color:yellow;
+}
+#Titulo{
+    color: white;
+}
+body{
+    background-color: #2c3e50;
+}
+ul{
+    color:white;
+}

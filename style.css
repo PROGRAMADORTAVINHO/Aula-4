@@ -1,0 +1,31 @@
+body{
+    background-image: url(/images/nissan-gtr-4k-custom-af-1920x1080.jpg);
+    background-repeat: no-repeat ; /*Faz a imagem n se repitir */
+    background-size: cover; /*Deixa a imagem com capa*/
+}
+header{
+    color: white;
+    border-style: dashed; /* Escole o tipo de borda */
+    border-color: gray ; /* Escole a cor da borda */
+
+}
+ul{
+    color: white;
+    border-style: dotted;
+}
+footer{
+    color : white;
+}
+.carro1{ /* Class */
+
+    color: blue;
+}
+#bloco{ /* ID */
+    background-color: rgb(185, 111, 255);
+}
+#exemplo p{
+    background-color: blue;
+}
+#exemplo ul{
+    background-color: aqua;
+}
